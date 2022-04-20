@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>DEPARTAMENTO DE APURIMAC</title>
+</head>
+<body style="background-color:rgb(87, 106, 161)">
+<header style="background-color:rgb(108, 147, 192); text-align:center; color:rgb(255, 255, 255)">
+    <h1>Apurímac "La Pradera de los Celajes"</h1>
+</header>
+    <nav style="background-color:rgb(108, 147, 192); width:25%">
+            <li tyle="display: inline;"> <a href="/Milygc.github.lo/costumbres.html"><h4>Costumbres</h4> </a> </li>
+            <li style="display: inline;"> <a href="Milygc.github.lo/Danzas.html"><h4>Danzas </h4> </a> </li>
+            <li style="display: inline;"> <a href="/Milygc.github.lo/gastronomia.html"> <h4>Gastronomía </h4></a> </li>
+    </nav>
+
+    <section style="background-color: rgb(108, 133, 180); width: 70%; float: left;">
+        <h2 style="color: white; text-align: center;">Historia de Apurímac</h2>
+
+        <p style="b; text-align: justify; font-size: 18px; margin: 0 5px 0 5px;">
+            La legendaria cultura chanca se desarrolló en este territorio llegando a extenderse a Ayacucho, especialmente en la actual provincia de Andahuaylas. Notables guerreros a la par que agricultores, se enfrascaron en una cruenta lucha contra los incas, a quienes casi vencieron; hasta que el ejército de Pachacútec, en cruenta batalla, decidida por muy pequeña diferencia logro hacerlos retroceder, fue increíble la resistencia y fuerza del ejército Chanca que pese a haber atravesado casi todo el territorio Apurimeño y llegado a las puertas del Cuzco, su sola presencia hizo que el Inca y su heredero legal huyesen dejando abandonada su capital Cuzco, tuvo que ser un paria que no tenía mucho que perder, el que, se animó a defenderla, y tanto se celebró el hecho de hacer retroceder al ejército Chanca, que costo la vida del sucesor legal del Inca, y esa propaganda dio inicio a la leyenda del más grande Inca que existió Pachacútec, de no ser por el arrojo de este desconocido Titu Cusi Yupanqui, y el apoyo decidido de MAMA ANAHUARQUE esposa del hasta ese entonces desconocido Titu Cusi Yupanqui, a la sazón luego transformado por tan formidable hazaña (a esa época el ejército chanca, era el más respectado en todo el sur peruano) en Pachacutek, es posible que ahora se estuviese hablando del Imperio Chanka, en vez del imperio Inka. Apurímac fue uno de los pocos lugares donde se perfeccionó la agricultura, luego de que sus habitantes impusieran una efectiva forma racional de explotación sobre la tierra, abono natural, rotación de cultivos, trueque de productos. 
+        </p>
+
+        <h3>Provincias de Apurímac</h3>
+        <center>
+        <table border="0.7" style="text-align: center;">
+            <tr bgcolor="aqua">
+              <td>Provincias</td>
+               <td>Capital</td>
+            </tr>
+            <tr bgcolor="cornflowerblue">
+                <td>Abancay</td>
+                <td>Abancay</td>
+            </tr>
+            <tr bgcolor="cornflowerblue">
+                <td>Andahuaylas</td>
+                <td>Andahuaylas</td>
+            </tr>
+            <tr bgcolor="cornflowerblue">
+                <td>Antabamba</td>
+                <td>Antabamba</td>
+            </tr>
+          <tr bgcolor="cornflowerblue">
+                <td>Aymaraes</td>
+                <td>Chalhuanca</td>
+            </tr>
+          <tr bgcolor="cornflowerblue">
+                <td>Cotabambas</td>
+                <td>Tambobamba</td>
+            </tr>
+          <tr bgcolor="cornflowerblue">
+                <td>Chincheros</td>
+                <td>Chincheros</td>
+            </tr>
+          <tr bgcolor="cornflowerblue">
+                <td>Grau</td>
+                <td>Chuquibambilla</td>
+            </tr>
+        </table>
+    </center>
+
+    <h2> Autoriades de Apurímac: 2019-2022</h2>
+
+    <p>
+        <b> <u>Gobernador Regional</b> </u>: Baltazar Lantarón Núñez 
+        <p>
+            <b> <u> Vicegobernador Regional</b> </u>: Henry Miguel León Moscoso
+        </p>
+        <ol>
+            <b> <u> Congresales:</b> </u>
+        </ol>
+
+        <li>Lenin Checco</li>
+        <li>Omar Merino</li>
+        
+   
+    <p>
+        <ol>
+            <b> <u> Autoridad Policial:</b> </u>
+        </ol>
+
+        <li>General PNP Víctor Raúl Rucoba Tello</li>  
+    </p>
+
+    <p>
+        <ol>
+            <b> <u> Religioso </b> </u>
+        </ol>
+
+        <li>Mons. Gilberto Gómez González (Obispo de Abancay).</li>
+        
+    </section>
+<section style="background-color: rgb(108, 133, 180); width: 30%; float: right;">
+   <aside>
+      
+        <a href="https://www.sitioperu.com/archivos/logo-20527141762.png">
+            <img src="https://www.sitioperu.com/archivos/logo-20527141762.png"; alt="Laguna de angascocha" height="100%" width="100%">
+        </a>
+    </aside>
+    <aside>
+      
+        <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/26/84/64/laguna-de-angascocha.jpg?w=1000&h=-1&s=1">
+            <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/26/84/64/laguna-de-angascocha.jpg?w=1000&h=-1&s=1"; alt="Laguna de angascocha" height="100%" width="100%">
+        </a>
+    </aside>
+
+    <aside>
+        <a href="https://comidasperuanas.net/wp-content/uploads/2020/11/Cuy-frito.jpg">
+            <img src="https://comidasperuanas.net/wp-content/uploads/2020/11/Cuy-frito.jpg" alt="Comida tipica" height="100%" width="100%">
+        </a>
+    </aside>
+
+</section>
+
+    <footer style="width: 70%; background-color: cornflowerblue;"
+        
+        <p>
+          Creado por Milagros Gamero
+          Se pueden contartar a traves del correo: 70025946@certus.edu.pe
+        </p>
+    </footer>
+    </section>
+</body>
+</html>
